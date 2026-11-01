@@ -1,0 +1,6 @@
+{
+  "name": "NetTopo - Automated Network Topology Designer & Subnet Planner",
+  "description": "Interactive network topology designer and VLSM subnet planner for computer networking labs with dynamic visual topologies and BOM generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
